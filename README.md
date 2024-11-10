@@ -1,4 +1,8 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL!!
+## Meu nome é Karolina Euclydes
+## Estou estudando no Alura
+## Estou me desenvolvendo na linguagem JavaScript
+## Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **Karolina-HISOK/Karolina-HISOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
